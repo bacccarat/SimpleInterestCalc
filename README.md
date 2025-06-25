@@ -4,6 +4,7 @@ Simple interest calculator made for IBM Front-End Certification #IBMSkillsNetwor
     Input:
        p, principal amount
        t, time period in years
-       r, annual rate of interest
-    Output
+       r, annual rate of interest 
+       //
+    Output:
        simple interest = p*t*r
